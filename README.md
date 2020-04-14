@@ -23,11 +23,11 @@ In this project you will implement Redux to manage the state for this React appl
 This project was put together using create-react-app (CRA). You will not need to install CRA in order to make this project work. Follow the steps below to setup the project with the proper dependencies.
 
 - [Y] Create a forked copy of this project.
-- [ ] Add your team lead as collaborator on Github.
+- [Y] Add your team lead as collaborator on Github.
 - [Y] Clone your OWN version of the repository in your terminal.
 - [Y] Download project dependencies by running `npm install`.
 - [Y] Add the dependencies you will need to implement Redux, using **npm**.
-- [ ] Start up the app using `npm start`.
+- [Y] Start up the app using `npm start`.
 - [Y] Create a new branch: git checkout -b `<firstName-lastName>`.
       Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
 - [Y] Push commits: git push origin `<firstName-lastName>`.
